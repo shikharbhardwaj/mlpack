@@ -3,6 +3,8 @@
 set(SOURCES
   naive_bayes_classifier.hpp
   naive_bayes_classifier_impl.hpp
+  parallel_naive_bayes_classifier.hpp
+  parallel_naive_bayes_classifier_impl.hpp
 )
 
 # Add directory name to sources.
